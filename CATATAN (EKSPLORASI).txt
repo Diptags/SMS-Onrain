@@ -1,0 +1,35 @@
+
+Nama	: Rd Pradipta Gitaya S
+NIM	: 1706043361
+Major	: Sistem Informasi 2017
+
+Kumpulan file ini merupakan kumpulan file untuk Tugas Eksplorasi
+
+Source code ini dapat dilihat di:
+https://github.com/Diptags/SMS-Onrain
+
+Untuk melihat pesan, harus memasukkan pesan terlebih dahulu di form yang disediakan, akan tetapi
+jika ingin melihat pesan yang sudah ada, dapat menggunakan jalan pintas
+https://sms-onrain.000webhostapp.com/kumpulanpesan.php
+
+Selain itu, akses ke website sudah dapat dilakukan dengan alamatnya adalah:
+https://sms-onrain.000webhostapp.com
+
+Jadi tidak perlu mencoba akses dengan server lokal yang sedikit merepotkan tentunya.
+
+Saya memilih 000webhost, karena di sana ada hosting gratis untuk database MySQL.
+
+File README.md juga boleh dibaca, itu adalah file README untuk di GitHub
+
+---------------------------------------------------------------------------------
+
+Untuk menjalankan web ini secara normal, pastikan semua file berada dalam satu folder.
+Kemudian untuk membuka hasil secara offline, cukup jalankan file:
+
+home.html
+
+Akan tetapi, untuk input pesan, hanya dapat dilakukan ketika sedang online, karena alasan mengecek data MySQL
+
+---------------------------------------------------------------------------------
+Mohon maaf apabila hasilnya masih tergolong biasa saja jika dibandingkan para master :)
+Saya masih belajar, dan saya senang dalam waktu 5 hari saya bisa membuatnya terlihat seperti ini
